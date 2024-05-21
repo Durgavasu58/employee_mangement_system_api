@@ -8,7 +8,7 @@ For getting indivigual employee data and update employeed data & for delete
 
 
 
-1. http://localhost:8000/employee/
+1. http://localhost:8000/employeeslist_create/
    Methods:=- ["GET", "POST"]
 
 2. http://localhost:8000/employee/3/
