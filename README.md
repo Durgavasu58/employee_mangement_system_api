@@ -16,8 +16,7 @@ For getting indivigual employee data and update employeed data & for delete
 
 
    json response data below :
-
-
+   ````
    {
   "id": 3,
   "address_details": {
@@ -57,3 +56,6 @@ For getting indivigual employee data and update employeed data & for delete
   "phone_no": "+916302575062",
   "photo": "/media/images/person_4OVEF3o.jpg"
 }
+
+   `````
+
