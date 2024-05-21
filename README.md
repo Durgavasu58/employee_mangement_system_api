@@ -1,7 +1,7 @@
 notes:
 
 For getting all employee data and post employeed data
-1. http://localhost:8000/employee/
+1. http://localhost:8000/employeeslist_create/
    
 For getting indivigual employee data and update employeed data & for delete
 3. http://localhost:8000/employee/3/
